@@ -1,0 +1,10 @@
+# ninja log v6
+6	297	1761486719528782681	build.ninja	9e9ab568eac3e7d
+468	859	7590274932190987	BlackJack.exe	505e4fc131814468
+2	245	1761486846373388358	CMakeFiles/BlackJack.dir/Carta.cpp.o	c29585056c887f41
+1	268	1761486846373388358	CMakeFiles/BlackJack.dir/Crupier.cpp.o	abb0cf9d426f7d56
+2	361	1761486846373388358	CMakeFiles/BlackJack.dir/Historial.cpp.o	ce2699f29459fa81
+1	429	1761486846373388358	CMakeFiles/BlackJack.dir/Jugador.cpp.o	7a1cb4c1e2f9c08c
+2	450	1761486846373388358	CMakeFiles/BlackJack.dir/Baraja.cpp.o	7cc48f61e5352e4b
+2	423	1761486861876876752	CMakeFiles/BlackJack.dir/main.cpp.o	db05f428c23a1ba7
+423	648	1761486862296880952	BlackJack	c8e1ad55b4503f24

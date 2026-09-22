@@ -1,0 +1,3 @@
+/home/cr3pso/Escritorio/Usj/2do/POO/Practica-Black-Jack/BlackJack/cmake-build-debug/CMakeFiles/BlackJack.dir
+/home/cr3pso/Escritorio/Usj/2do/POO/Practica-Black-Jack/BlackJack/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/cr3pso/Escritorio/Usj/2do/POO/Practica-Black-Jack/BlackJack/cmake-build-debug/CMakeFiles/rebuild_cache.dir
